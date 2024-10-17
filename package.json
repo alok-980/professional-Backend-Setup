@@ -1,0 +1,16 @@
+{
+  "name": "complete-backend-setup",
+  "version": "1.0.0",
+  "description": "this is a complete professional level backend setup for deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "express",
+    "node"
+  ],
+  "author": "Alok Chauhan",
+  "license": "ISC"
+}
